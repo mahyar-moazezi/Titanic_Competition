@@ -1,4 +1,4 @@
-# Titanic_Logistic_Regression
+# Titanic_Competition
 This repository contains the code and resources for the Titanic Survival Prediction competition on Kaggle. The goal of this competition is to predict the survival status of passengers aboard the Titanic based on various features such as age, sex, class, etc.
 
 # Dataset
